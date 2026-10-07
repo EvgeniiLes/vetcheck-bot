@@ -1,0 +1,20 @@
+field name;english description;russian description;format
+developer;Developer;Разработчик;string
+manufacturer;Manufacturer;Производитель;string
+indications for use;Indications for use;Показания к применению;string
+dosage form;Dosage form;Лекарственная форма;string
+pharmacotherapeutic group, code of the anatomical-therapeutic-chemical classification recommended by the World Health Organization;Pharmacotherapeutic group, code of the anatomical-therapeutic-chemical classification recommended by the World Health Organization;Фармакотерапевтическая группа, код анатомо-терапевтическо-химической классификации, рекомендованной Всемирной организацией здравоохранения;string
+qualitative composition and quantitative composition of active ingredients and qualitative composition of excipients;Qualitative composition and quantitative composition of active ingredients and qualitative composition of excipients;Качественный состав и количественный состав действующих веществ и качественный состав вспомогательных веществ;string
+contraindications;Contraindications;Противопоказания;string
+best before date;Best before date;Срок годности;string
+storage conditions;Storage conditions;Условия хранения;string
+terms;Terms ;Условия отпуска;string
+dosage;Dosage;Дозировка;string
+quantity in consumer packaging;Quantity in consumer packaging;Количество в потребительской упаковке;string
+regulatory document number;Regulatory document number;Номер фармакопейной статьи или нормативного документа;string
+side effects;Side effects;Побочные действия;string
+serial number;Serial number;Учётная серия №;string
+registration number;Registration number;Регистрационный №;string
+state registration date;State registration date;Дата государственной регистрации;string
+expiration date;Expiration date;Дата окончания срока действия;string
+registration number ERUL;Registration number ERUL;Регистрационный номер ЕРУЛ;string
