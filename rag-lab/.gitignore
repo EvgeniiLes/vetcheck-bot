@@ -1,0 +1,5 @@
+kb.db
+raw/fda/
+raw/registry_drugs.csv
+__pycache__/
+.env
